@@ -1,0 +1,8 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# Java compiled files
+out/
+target/
+pom.xml
